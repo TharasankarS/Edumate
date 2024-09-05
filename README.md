@@ -8,3 +8,5 @@
 -Add Api keys for generativeAi and Stability-AI.
 -Connect frontend and backend with flask.
 -Create necessary paths for images,audios and results as mentioned in the code.
+
+##Techstack: Frontend-Flutter ,Backend-Python
